@@ -1,38 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="143827a0-276b-457b-b724-74bedc15721a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/lyrics-michaelspeed.github.io.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Components/List/SongList.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Components/Loader/Loader.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Components/Lyrics/Lyrics.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Components/Pagination/Pagination.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Components/Search/Search.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/hero-background-small.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/hero-background.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libs/Components/Components.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libs/Fetcher/Fetcher.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libs/PubSub/PubSub.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libs/StateManagement/Store.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libs/StateManagement/actions.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libs/StateManagement/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libs/StateManagement/mutations.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libs/StateManagement/state.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mocks/sample1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mocks/sample2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mocks/sample3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mocks/sample4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/Globals.js" afterDir="false" />
-    </list>
+    <list default="true" id="143827a0-276b-457b-b724-74bedc15721a" name="Default Changelist" comment="initialized" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,11 +33,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1609761591732</updated>
-      <workItem from="1609761594610" duration="146000" />
+      <workItem from="1609761594610" duration="697000" />
     </task>
+    <task id="LOCAL-00001" summary="initialized">
+      <created>1609761872585</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1609761872585</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initialized" />
+    <option name="LAST_COMMIT_MESSAGE" value="initialized" />
   </component>
 </project>
