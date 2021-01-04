@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="143827a0-276b-457b-b724-74bedc15721a" name="Default Changelist" comment="removed reame">
+    <list default="true" id="143827a0-276b-457b-b724-74bedc15721a" name="Default Changelist" comment="little fixes on pagination">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Components/Pagination/Pagination.js" beforeDir="false" afterPath="$PROJECT_DIR$/Components/Pagination/Pagination.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Components/Search/Search.js" beforeDir="false" afterPath="$PROJECT_DIR$/Components/Search/Search.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/StateManagement/mutations.js" beforeDir="false" afterPath="$PROJECT_DIR$/libs/StateManagement/mutations.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +37,8 @@
       <option name="presentableId" value="Default" />
       <updated>1609761591732</updated>
       <workItem from="1609761594610" duration="697000" />
-      <workItem from="1609762527078" duration="1806000" />
+      <workItem from="1609762527078" duration="2060000" />
+      <workItem from="1609769191145" duration="45000" />
     </task>
     <task id="LOCAL-00001" summary="initialized">
       <created>1609761872585</created>
@@ -55,7 +54,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609762576910</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="little fixes on pagination">
+      <created>1609764639228</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1609764639228</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -71,10 +77,12 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initialized" />
     <MESSAGE value="removed reame" />
-    <option name="LAST_COMMIT_MESSAGE" value="removed reame" />
+    <MESSAGE value="little fixes on pagination" />
+    <option name="LAST_COMMIT_MESSAGE" value="little fixes on pagination" />
   </component>
 </project>
