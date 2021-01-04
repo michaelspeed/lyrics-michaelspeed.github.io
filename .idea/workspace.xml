@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="143827a0-276b-457b-b724-74bedc15721a" name="Default Changelist" comment="initialized" />
+    <list default="true" id="143827a0-276b-457b-b724-74bedc15721a" name="Default Changelist" comment="removed reame">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Components/Pagination/Pagination.js" beforeDir="false" afterPath="$PROJECT_DIR$/Components/Pagination/Pagination.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Components/Search/Search.js" beforeDir="false" afterPath="$PROJECT_DIR$/Components/Search/Search.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/StateManagement/mutations.js" beforeDir="false" afterPath="$PROJECT_DIR$/libs/StateManagement/mutations.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,6 +39,7 @@
       <option name="presentableId" value="Default" />
       <updated>1609761591732</updated>
       <workItem from="1609761594610" duration="697000" />
+      <workItem from="1609762527078" duration="1806000" />
     </task>
     <task id="LOCAL-00001" summary="initialized">
       <created>1609761872585</created>
@@ -42,14 +48,33 @@
       <option name="project" value="LOCAL" />
       <updated>1609761872585</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="removed reame">
+      <created>1609762576910</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1609762576910</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initialized" />
-    <option name="LAST_COMMIT_MESSAGE" value="initialized" />
+    <MESSAGE value="removed reame" />
+    <option name="LAST_COMMIT_MESSAGE" value="removed reame" />
   </component>
 </project>

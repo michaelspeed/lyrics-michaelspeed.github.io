@@ -28,13 +28,10 @@ export default {
         return state;
     },
     setPagination(state, payload) {
-        const newState = {
-            prev: payload.prev ? payload.prev : '',
-            next: payload.next ? payload.next : '',
-            total: payload.total,
-            ...state
-        }
-        return newState;
+        state.prev = payload.prev ? payload.prev : '';
+        state.next = payload.next ? payload.next : '';
+        state.total= payload.total
+        return state;
     },
     clearInitial(state, payload) {
         state.allSongs = []

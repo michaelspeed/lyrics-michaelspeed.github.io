@@ -23,8 +23,9 @@ export default class Pagination extends Components {
         }
 
         if (store.state.searchTerm !== '' && store.state.allSongs.length > 0){
-            document.querySelector('.btn-next').addEventListener('click', () => {
-                store.dispatch('setLoading')
+            document.querySelector('.btn-next').addEventListener('click', async (e) => {
+                e.preventDefault();
+                await store.dispatch('setLoading')
                 Fetcher(store.state.next)
                     .then((response) => {
                         console.log(response)
